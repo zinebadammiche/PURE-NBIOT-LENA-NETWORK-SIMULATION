@@ -9,8 +9,8 @@ This project provides a C++ NB-IoT simulator with Python integration for generat
 ## 📁 Project Structure
 
 ```
+README.md
 nbiot-project/
-├── README.md
 ├── scripts/
 │   ├── setup_this_version.sh        # Setup and build script
 │   └── true_nbiot_simulations.sh    # Run full NB-IoT simulations
@@ -121,11 +121,8 @@ Run the complete simulator with multiple modes and devices:
 ```
 
 **Actions performed:**
-- 🔧 Compiles `src/S
--
--
--
-- imulation-script.cc`
+- 🔧 Compiles `src/
+- simulation-script.cc`
 - 🔄 Runs multiple simulations with random seeds
 - 📊 Generates CSV files, detailed reports, and graphs
 
@@ -431,6 +428,7 @@ chmod +x batch_simulations.sh
 ```
 
 ---
+ 
 👥 Contributors
 
 
@@ -441,31 +439,31 @@ chmod +x batch_simulations.sh
       Email
     
   
-  
+    BENALI Amine
+      Contributor
+      benali.amine@master.inpt.ac.ma
+    
+    
+      Ismail. ANGRI
+      Supervisor
+      ismail.angri@gmail.com
     
       SARAOUI Zineb
       Contributor
-      zineb.saraoui@inpt.ac.ma
+     zinebsaraoui11@gmail.com
     
     
       BAKRIM Sana
       Contributor
-      sana.bakrim@inpt.ac.ma
+      business.sanabakrim@gmail.com
     
     
       ADAMMICHE Zineb
       Contributor
-      zineb.adammiche@inpt.ac.ma
+      zinebadammiche03@gmail.com
     
     
-      BENALI Amine
-      Contributor
-      amine.benali@inpt.ac.ma
     
-    
-      I. ANGRI
-      Supervisor
-      ismail.angri@inpt.ac.ma
     
   
 
