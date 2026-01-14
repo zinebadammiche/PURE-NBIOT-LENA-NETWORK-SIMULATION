@@ -15,7 +15,7 @@ nbiot-project/
 │   ├── setup_this_version.sh        # Setup and build script
 │   └── true_nbiot_simulations.sh    # Run full NB-IoT simulations
 ├── src/
-│   └── simple_nbiot_sim.cc          # Main C++ simulator
+│   └── simulation-script.cc          # Main C++ simulator
 └── scratch/
     └── nbiot-pur-experiment.cc      # Minimal test simulation
 ```
@@ -121,7 +121,11 @@ Run the complete simulator with multiple modes and devices:
 ```
 
 **Actions performed:**
-- 🔧 Compiles `src/simple_nbiot_sim.cc`
+- 🔧 Compiles `src/S
+-
+-
+-
+- imulation-script.cc`
 - 🔄 Runs multiple simulations with random seeds
 - 📊 Generates CSV files, detailed reports, and graphs
 
@@ -253,7 +257,7 @@ This script runs complete NB-IoT simulations with random variations:
 ### ⚙️ Customization
 
 You can adjust:
-- Number of devices in `simple_nbiot_sim.cc`
+- Number of devices in `simulation-script.cc`
 - Transmission modes
 - Parameters via command line in minimal experiments
 
