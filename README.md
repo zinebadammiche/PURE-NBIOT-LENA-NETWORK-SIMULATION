@@ -432,8 +432,7 @@ chmod +x batch_simulations.sh
 👥 Contributors
 
 
-  
-    ## Project Team
+ 
 
 | Name & Surname       | Role        | Email                              |
 |----------------------|-------------|------------------------------------|
@@ -455,5 +454,5 @@ chmod +x batch_simulations.sh
 📧 Contact
 For any questions or collaboration, you can contact the project team:
 Master IoT & Big Data
-Institut National des Postes et Télécommunications (INPT), Rabat, Morocco
+National Institute of Posts and Telecommunications  (INPT), Rabat, Morocco
  
