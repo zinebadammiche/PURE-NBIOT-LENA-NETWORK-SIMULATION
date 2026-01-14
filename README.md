@@ -433,34 +433,17 @@ chmod +x batch_simulations.sh
 
 
   
-    
-      Name & Surname
-      Role
-      Email
-    
-  
-    BENALI Amine
-      Contributor
-      benali.amine@master.inpt.ac.ma
-    
-    
-      Ismail. ANGRI
-      Supervisor
-      ismail.angri@gmail.com
-    
-      SARAOUI Zineb
-      Contributor
-     zinebsaraoui11@gmail.com
-    
-    
-      BAKRIM Sana
-      Contributor
-      business.sanabakrim@gmail.com
-    
-    
-      ADAMMICHE Zineb
-      Contributor
-      zinebadammiche03@gmail.com
+    ## Project Team
+
+| Name & Surname       | Role        | Email                              |
+|----------------------|-------------|------------------------------------|
+| Ismail ANGRI         | Supervisor  | ismail.angri@gmail.com             |
+| BENALI Amine         | Contributor | benali.amine@master.inpt.ac.ma     |
+| SARAOUI Zineb        | Contributor | zinebsaraoui11@gmail.com           |
+| BAKRIM Sana          | Contributor | business.sanabakrim@gmail.com      |
+| ADAMMICHE Zineb     | Contributor |zinebadammiche03@gmail.com                                 |
+
+      
     
     
     
